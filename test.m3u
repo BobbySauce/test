@@ -1,3 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@HD",AlbKanale Music TV (1080p)
 https://a119.azplay55.me/hls/streama270757/index.m3u8?cst=75d3dec0db0b41e4a9a52c41fb244c38
+#PLAYLIST:nicht für Verzehr geeignet
+
+#EXTINF:107 tvg-logo="https://i.ytimg.com/vi/CR_B0eN0BLE/mqdefault.jpg",At Doom's Gate
+https://www.youtube.com/watch?v=CR_B0eN0BLE
+
+#EXTINF:71 tvg-logo="https://i.ytimg.com/vi/CYzTLzhnMLM/mqdefault.jpg",Choose a File
+https://www.youtube.com/watch?v=CYzTLzhnMLM
+
+#EXTINF:97 tvg-logo="https://i.ytimg.com/vi/PUoN4lfF0hE/mqdefault.jpg",Buzz Buzz's Prophecy
+https://www.youtube.com/watch?v=PUoN4lfF0hE
+
+#EXTINF:270 tvg-logo="https://i.ytimg.com/vi/ByKll4eIjwo/mqdefault.jpg",LISA: The Painful OST - Men's Hair Club
+https://www.youtube.com/watch?v=ByKll4eIjwo
+
+#EXTINF:61 tvg-logo="https://i.ytimg.com/vi/v6BVHT2MawQ/mqdefault.jpg",LISA: The Painful OST - Cosmic Boys
+https://www.youtube.com/watch?v=v6BVHT2MawQ
+
+#EXTINF:579 tvg-logo="https://i.ytimg.com/vi/1rwAvUvvQzQ/mqdefault.jpg",[Official] Celeste Original Soundtrack - 03 - Resurrections
+https://www.youtube.com/watch?v=1rwAvUvvQzQ
+
+#EXTINF:205 tvg-logo="https://i.ytimg.com/vi/-5rAjOjTGtc/mqdefault.jpg",Donkey Kong Country - Aquatic Ambience [Restored]
+https://www.youtube.com/watch?v=-5rAjOjTGtc
