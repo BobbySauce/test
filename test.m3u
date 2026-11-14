@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="test",test
+#EXTINF:-1 tvg-id="test",test
+#EXTVLCOPT:http-user-agent=VLC/3.0.20
+#EXTVLCOPT:http-referrer=https://example.com/
 https://a120.azplay55.me/hls/streama268668/index.m3u8?cst=f48efb5b0bceb13cacfa8c450213babd
